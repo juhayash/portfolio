@@ -6,13 +6,6 @@
 - B.S., Computer Science | University of California Santa Cruz (_Dec 2023_)
 - A.S., Computer Science | Diablo Valle College (_May 2022_)
 
-## Work Experience
-**DRC Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)**
-- Took organized lecture notes and submit them to the DRC department after each class
-
-**Math Lab Tutor @ Diablo Valley College (_Sep 2020 - May 2021_)**
-- Provided individualized assistance and guidance to students in various mathematics courses ranging from Calculus II to Differential Equations
-
 ## Personal Projects
 ### Poker AI
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -30,3 +23,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### Pac-Man AI
 
+## Work Experience
+**DRC Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)**
+- Took organized lecture notes and submit them to the DRC department after each class
+
+**Math Lab Tutor @ Diablo Valley College (_Sep 2020 - May 2021_)**
+- Provided individualized assistance and guidance to students in various mathematics courses ranging from Calculus II to Differential Equations
