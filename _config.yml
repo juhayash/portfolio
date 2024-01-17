@@ -1,5 +1,6 @@
 title: Jun Hayashida
 logo: /assets/img/profile.png
 # description: text below image
-# show_download: true
+show_download: true
+google_analytics:
 theme: jekyll-theme-minimal
