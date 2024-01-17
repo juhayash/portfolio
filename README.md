@@ -26,6 +26,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ## Work Experience
 **DRC Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)**
 - Took organized lecture notes and submit them to the DRC department after each class
-
-**Math Lab Tutor @ Diablo Valley College (_Sep 2020 - May 2021_)**
-- Provided individualized assistance and guidance to students in various mathematics courses ranging from Calculus II to Differential Equations
