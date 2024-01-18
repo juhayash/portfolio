@@ -9,8 +9,9 @@
 ## Personal Projects
 ### Poker AI
 
-<video src="https://github.com/juhayash/portfolio/assets/video/demo1.mp4"> poker ai demo </video>
-
+ <video autoplay loop>
+  <source src="https://github.com/juhayash/portfolio/assets/140232266/5873426d-65a0-490e-b2ad-e6f2a56a7c08">
+ </video>
 
 ### Mine Sweeper AI
 
