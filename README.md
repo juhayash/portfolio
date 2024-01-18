@@ -8,6 +8,9 @@
 
 ## Personal Projects
 ### Poker AI
+ <video autoplay loop>
+  <source src="resources/videos/demo1.mp4" type="video/mp4">
+ </video>
 
 <video src="https://github.com/juhayash/portfolio/assets/video/demo1.mp4"> poker ai demo </video>
 
