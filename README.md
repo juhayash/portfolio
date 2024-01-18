@@ -9,7 +9,7 @@
 ## Personal Projects
 ### Poker AI
  <video playsinline autoplay muted loop>
-  <source src="resources/videos/demo1.mp4" type="video/mp4">
+  <source src="assets/videos/demo1.mp4" type="video/mp4">
  </video>
 
 ### Mine Sweeper AI
