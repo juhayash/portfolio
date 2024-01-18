@@ -8,9 +8,10 @@
 
 ## Personal Projects
 ### Poker AI
- <video playsinline autoplay muted loop>
-  <source src="assets/videos/demo1.mp4" type="video/mp4">
- </video>
+  <video width="320" height="240" controls>
+    <source src="assets/video/demo1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 ### Mine Sweeper AI
 
