@@ -18,8 +18,8 @@
   - Role: Project owner
   - Led a team of five developers and contributed to the development of a Poker-AI application for Texas Hold’em Poker.
   - Managed project features, sprint planning, and product backlog prioritization.
-  - Designed the hand-evaluation function for optimal preflop actions and validated results against GTO AI data.
-  - Developed both low and high-fidelity wireframes for user- friendly app interfaces.
+  - Designed the hand-evaluation function for optimal preflop actions and validated results against GTO AI data in **python**.
+  - Developed both low and high-fidelity wireframes for user- friendly app interfaces in **React Native**.
   - Implemented agile methodologies and Scrum practices, overcoming challenges in front-end development and task estimation.
 
 
@@ -31,7 +31,7 @@
     </video>
 
   #### Description
-  - Played a pivotal role in establishing the foundational mechanics of the Minesweeper game, ensuring seamless interaction between the base gameplay elements and the level generation algorithm.
+  - Establishing the foundational mechanics of the Minesweeper game in **Python**, ensuring seamless interaction between the base gameplay elements and the level generation algorithm.
   - Spearheaded the UI enhancement initiatives, integrating additional features and diverse visual elements to elevate the user experience.
   - Actively involved in debugging and refining the core gameplay and level generation scripts to optimize performance and user engagement.
 
@@ -40,7 +40,7 @@
 
 
   #### Description
-  - Implemented a reflex agent, considering various game state features and legal actions.
+  - Implemented a reflex agent, considering various game state features and legal actions in **Python**.
   - Created distinct strategies for offensive and defensive agents, including features like proximity to food, capsules, and ghosts, and game score dynamics.
   - Utilized a weighted scoring system to evaluate game states and determine optimal agent actions.
 
