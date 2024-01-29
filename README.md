@@ -1,5 +1,12 @@
 # Software Developer
 
+<div class="contact-section">
+    <h3>Contact Me</h3>
+    <p>If you'd like to get in touch, feel free to reach out through email or connect with me on LinkedIn.</p>
+    <a href="mailto:your-email@example.com" class="contact-button">Email Me</a>
+    <a href="https://www.linkedin.com/in/your-linkedin-id" class="contact-button">LinkedIn</a>
+</div>
+
 ### Technical Skills: Python, C++, C, ReactNative, Scrum
 
 ## Education		        		
@@ -52,3 +59,24 @@
 **High-School Cramschool Tutor @ Rinkai Seminor (_May 2018 - Dec 2022_)**
 - Ptrovided in-person/online tutoring services to high school students
 - Provided lectures for Math, Physics, and English
+
+<style>
+    .contact-section {
+        text-align: center;
+        padding: 20px;
+    }
+
+    .contact-button {
+        text-decoration: none;
+        color: white;
+        background-color: #007bff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        margin: 10px;
+        display: inline-block;
+    }
+
+    .contact-button:hover {
+        background-color: #0056b3;
+    }
+</style>
