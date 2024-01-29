@@ -1,10 +1,10 @@
 # Software Developer
 
 <div class="contact-section">
-    <h3>Contact Me</h3>
+    <h2>Contact Me</h2>
     <p>If you'd like to get in touch, feel free to reach out through email or connect with me on LinkedIn.</p>
-    <a href="mailto:your-email@example.com" class="contact-button">Email Me</a>
-    <a href="https://www.linkedin.com/in/your-linkedin-id" class="contact-button">LinkedIn</a>
+    <a href="mailto:g.jun375181031@gmail.com" class="contact-button">Email</a>
+    <a href="https://www.linkedin.com/in/jun-hayashida-a34092244/" class="contact-button">LinkedIn</a>
 </div>
 
 ### Technical Skills: Python, C++, C, ReactNative, Scrum
