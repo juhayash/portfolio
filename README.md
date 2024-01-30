@@ -10,8 +10,8 @@
 ### Technical Skills: Python, C++, C, ReactNative, Scrum
 
 ## Education		        		
-- B.S., Computer Science | University of California Santa Cruz (_Dec 2023_)
-- A.S., Computer Science | Diablo Valle College (_May 2022_)
+- B.S., Computer Science | University of California Santa Cruz (_September 2022 - Dec 2023_)
+- A.S., Computer Science | Diablo Valle College (_September 2019 - May 2022_)
 
 ## Personal Projects
 ### Poker AI
