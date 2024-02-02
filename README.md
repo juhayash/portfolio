@@ -16,7 +16,7 @@
 ## Personal Projects
 ### Poker AI
 #### Demo
-  <img src="assets/gif/demo1.gif" width="500" height="500" alt="Poker AI Demo">
+  <img src="assets/gif/demo1.gif" width="500" alt="Poker AI Demo">
 
 
 #### Description
