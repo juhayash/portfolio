@@ -40,7 +40,7 @@
 
 ### Pac-Man AI
 #### Demo
-  <img src="assets/gif/demo3.gif" width="500" alt="Pac-man AI Demo">
+  <img src="assets/gif/demo3.gif" alt="Pac-man AI Demo">
 
 #### Description
 - Implemented a reflex agent, considering various game state features and legal actions in **Python**.
