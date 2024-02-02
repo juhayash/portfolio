@@ -16,10 +16,8 @@
 ## Personal Projects
 ### Poker AI
 #### Demo
-  <video width="320" height="240" controls>
-    <source src="assets/video/demo1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="assets/gif/demo1.gif" width="320" height="240" alt="Poker AI Demo">
+
 
 #### Description
 - Role: Project owner
@@ -32,10 +30,8 @@
 
 ### Mine Sweeper AI
 #### Demo
-  <video width="320" height="240" controls>
-    <source src="assets/video/demo2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="assets/gif/demo2.gif" width="320" height="240" alt="Mine Sweeper AI Demo">
+
 
 #### Description
 - Establishing the foundational mechanics of the Minesweeper game in **Python**, ensuring seamless interaction between the base gameplay elements and the level generation algorithm.
