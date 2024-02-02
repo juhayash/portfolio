@@ -40,7 +40,7 @@
 
 ### Pac-Man AI
 #### Demo
-  <img src="assets/gif/demo2.gif" width="500" alt="Mine Sweeper AI Demo">
+  <img src="assets/gif/demo3.gif" width="500" alt="Pac-man AI Demo">
 
 #### Description
 - Implemented a reflex agent, considering various game state features and legal actions in **Python**.
