@@ -16,7 +16,7 @@
 ## Personal Projects
 ### Poker AI
 #### Demo
-  <img src="assets/gif/demo1.gif" width="320" height="240" alt="Poker AI Demo">
+  <img src="assets/gif/demo1.gif" width="500" height="500" alt="Poker AI Demo">
 
 
 #### Description
@@ -30,7 +30,7 @@
 
 ### Mine Sweeper AI
 #### Demo
-  <img src="assets/gif/demo2.gif" width="320" height="240" alt="Mine Sweeper AI Demo">
+  <img src="assets/gif/demo2.gif" width="500" height="500" alt="Mine Sweeper AI Demo">
 
 
 #### Description
