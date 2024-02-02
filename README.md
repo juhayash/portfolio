@@ -30,7 +30,7 @@
 
 ### Mine Sweeper AI
 #### Demo
-  <img src="assets/gif/demo2.gif" width="500" height="500" alt="Mine Sweeper AI Demo">
+  <img src="assets/gif/demo2.gif" width="500" alt="Mine Sweeper AI Demo">
 
 
 #### Description
