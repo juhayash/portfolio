@@ -2,9 +2,10 @@
 
 <div class="contact-section">
     <h2>Contact Me</h2>
-    <p>If you'd like to get in touch, feel free to reach out through email or connect with me on LinkedIn.</p>
+    <p>If you'd like to get in touch, feel free to reach out to me with email, Linked-in, or Github. </p>
     <a href="mailto:g.jun375181031@gmail.com" class="contact-button">Email</a>
     <a href="https://www.linkedin.com/in/jun-hayashida-a34092244/" class="contact-button">LinkedIn</a>
+    <a href="https://github.com/juhayash" class="contact-button">Github</a>
 </div>
 
 ### Technical Skills: Python, C++, C, ReactNative, Scrum
@@ -53,7 +54,7 @@
 - Contributed to the DRC department by taking organized lecture notes and providing support for poeple in need for a year
 
 **High-School Cramschool Tutor @ Rinkai Seminor (_May 2018 - Dec 2022_)**
-- Ptrovided in-person/online tutoring services to high school students
+- Provided in-person/online tutoring services to high school students
 - Provided lectures for Math, Physics, and English
 
 <style>
