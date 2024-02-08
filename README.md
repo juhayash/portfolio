@@ -1,5 +1,3 @@
-# Software Developer
-
 <div class="contact-section">
     <h2>Contact Me</h2>
     <p>If you'd like to get in touch, feel free to reach out to me with email, Linked-in, or Github. </p>
@@ -12,7 +10,7 @@
 
 ## Education		        		
 - B.S., Computer Science | University of California Santa Cruz (_September 2022 - Dec 2023_)
-- A.S., Computer Science | Diablo Valle College (_September 2019 - May 2022_)
+- A.S., Computer Science | Diablo Valley College (_September 2019 - May 2022_)
 
 ## Personal Projects
 ### Poker AI
