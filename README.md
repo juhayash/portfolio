@@ -3,7 +3,7 @@
 <div class="contact-section">
     <h2>Contact Me</h2>
     <p>If you'd like to get in touch, feel free to reach out to me with email, Linked-in, or Github. </p>
-    <a href="mailto:g.jun375181031@gmail.com" class="contact-button">Email</a>
+    <a href="mailto:hayash.jun@gmail.com" class="contact-button">Email</a>
     <a href="https://www.linkedin.com/in/jun-hayashida-a34092244/" class="contact-button">LinkedIn</a>
     <a href="https://github.com/juhayash" class="contact-button">Github</a>
 </div>
