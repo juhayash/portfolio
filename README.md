@@ -51,7 +51,7 @@
 
 ## Work Experience
 **Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)**
-- Contributed to the DRC department by taking organized lecture notes and providing support for poeple in need for a year.
+- Contributed to the DRC department by taking organized lecture notes and providing support for people in need for a year.
 
 **High-School Cramschool Tutor @ Rinkai Seminor (_May 2018 - Dec 2022_)**
 - Provided in-person/online tutoring services to high school students.
