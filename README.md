@@ -19,12 +19,12 @@
 
 
 #### Description
-- Role: Project owner
-- Led a team of five developers and contributed to the development of a Poker-AI application for Texas Hold’em Poker.
-- Managed project features, sprint planning, and product backlog prioritization.
-- Designed the hand-evaluation function for optimal preflop actions and validated results against GTO AI data in **python**.
-- Developed both low and high-fidelity wireframes for user- friendly app interfaces in **React Native**.
-- Implemented agile methodologies and Scrum practices, overcoming challenges in front-end development and task estimation.
+- Created a web application that integrates Game Theory Optimal strategies for Texas Hold'em Poker
+- As a Project Owner, I led a team of six developers with Agile methodologies and Scrum practices, such as managing project features, sprint planning, user stories, and user points.
+- Crafted the frame layout for the product using Figma.
+- Added features such as drobox and buttons with ReactNative.
+- Designed the hand-evaluation function to output the optimal action in Python.
+- Created unit test files and reached to 97% accuracy against GTO AI data.
 
 
 ### Mine Sweeper AI
@@ -33,18 +33,26 @@
 
 
 #### Description
-- Establishing the foundational mechanics of the Minesweeper game in **Python**, ensuring seamless interaction between the base gameplay elements and the level generation algorithm.
-- Spearheaded the UI enhancement initiatives, integrating additional features and diverse visual elements to elevate the user experience.
-- Actively involved in debugging and refining the core gameplay and level generation scripts to optimize performance and user engagement.
+- Created a Minesweeper game with Python to generate unique levels with customized difficulty settings.
+- Developed the level generation algorithm using the genetic algorithms.
+- Utilized the Tkinter Python library to add a wide variety of GUI features to enable easier interactions with users.
+  * Enabled flagging tiles with right click.
+  * Enabled expansion mechanism of neighboring empty spaces when an empty space is clicked. 
+  * Implemented level regeneration if user selects a bomb on his first turn.
+- Implemented "Best Level" feature to track the level that has the highest fitness value.
+- Actively involved in debugging and refining the scripts to optimize performance and user engagement.
 
 ### Pac-Man AI
 #### Demo
   <img src="assets/gif/demo3.gif" alt="Pac-man AI Demo">
 
 #### Description
-- Implemented a reflex agent, considering various game state features and legal actions in **Python**.
+- Developed a multi-player capture-the-flag variant of Pacman game application in Python.
+- Implemented a reflex agent, considering various game state features and legal actions.
 - Created distinct strategies for offensive and defensive agents, including features like proximity to food, capsules, and ghosts, and game score dynamics.
+- Coded search functions using various methods such as DFS, BFS, Uniform Cost Search, and A* Search.
 - Utilized a weighted scoring system to evaluate game states and determine optimal agent actions.
+- Coded various agents utilizing advanced algorithms such as Mini-max algorithm, alpha-beta pruning algorithm, and Q-learning algorithm.
 
 
 ## Work Experience
