@@ -19,10 +19,10 @@
 
 
 #### Description
-- Created a *web application* that integrates Game Theory Optimal strategies for Texas Hold'em Poker
-- As a *Project Owner*, I led a team of *six developers* with *Agile* methodologies and *Scrum* practices, such as managing project features, sprint planning, user stories, and user points.
-- Crafted the wireframe and prototype for the product using *Figma*.
-- Spearheaded  UI enhancement initiatives utilizing *ReactNative*.
+- Created a **web application** that integrates Game Theory Optimal strategies for Texas Hold'em Poker
+- As a **Project Owner**, I led a team of six developers with **Agile** methodologies and **Scrum** practices, such as managing project features, sprint planning, user stories, and user points.
+- Crafted the wireframe and prototype for the product using **Figma**.
+- Spearheaded  UI enhancement initiatives utilizing **ReactNative**.
   * Designed the product’s first page, incorporating a user-friendly start menu to streamline navigation.
   * Innovated an interactive input system using collapsible components.
   * Implemented a sophisticated user input mechanism through the deployment of multiple conditional buttons, designed to activate the ‘Result’ display only after all necessary criteria were met. 
@@ -36,9 +36,9 @@
 
 
 #### Description
-- Created a Minesweeper game with *Python* to generate unique levels with customized difficulty settings.
+- Created a Minesweeper game with **Python** to generate unique levels with customized difficulty settings.
 - Developed the level generation algorithm using the genetic algorithms.
-- Utilized the *Tkinter* Python library to add a wide variety of GUI features to enable easier interactions with users.
+- Utilized the **Tkinter** Python library to add a wide variety of GUI features to enable easier interactions with users.
   * Enabled flagging tiles with right click.
   * Enabled expansion mechanism of neighboring empty spaces when an empty space is clicked. 
   * Implemented level regeneration if user selects a bomb on his first turn.
@@ -50,19 +50,19 @@
   <img src="assets/gif/demo3.gif" alt="Pac-man AI Demo">
 
 #### Description
-- Developed a multi-player capture-the-flag variant of Pacman game application in *Python*.
+- Developed a multi-player capture-the-flag variant of Pacman game application in **Python**.
 - Implemented a reflex agent, considering various game state features and legal actions.
 - Created distinct strategies for offensive and defensive agents, including features like proximity to food, capsules, and ghosts, and game score dynamics.
-- Coded *search functions* using various methods such as DFS, BFS, Uniform Cost Search, and A* Search.
+- Coded **search functions** using various methods such as DFS, BFS, Uniform Cost Search, and A* Search.
 - Utilized a weighted scoring system to evaluate game states and determine optimal agent actions.
-- Coded various agents utilizing *advanced algorithms* such as Mini-max algorithm, alpha-beta pruning algorithm, and Q-learning algorithm.
+- Coded various agents utilizing **advanced algorithms** such as Mini-max algorithm, alpha-beta pruning algorithm, and Q-learning algorithm.
 
 
 ## Work Experience
-**Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)**
+*Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)*
 - Contributed to the DRC department by taking organized lecture notes and providing support for people in need for a year.
 
-**High-School Cramschool Tutor @ Rinkai Seminor (_May 2018 - Dec 2022_)**
+*High-School Cramschool Tutor @ Rinkai Seminor (_May 2018 - Dec 2022_)*
 - Provided in-person/online tutoring services to high school students.
 - Provided lectures for Math, Physics, and English.
 
