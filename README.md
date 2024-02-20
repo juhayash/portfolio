@@ -27,7 +27,7 @@
   * Innovated an interactive input system using collapsible components.
   * Implemented a sophisticated user input mechanism through the deployment of multiple conditional buttons, designed to activate the ‘Result’ display only after all necessary criteria were met. 
   * Designed an intuitive result page, adding ‘View Details’ button. 
-- Designed the hand-evaluation function to output the optimal action in Python.
+- Designed the hand-evaluation function to output the optimal action in **Python**.
 - Created unit test files and reached to 97% accuracy against GTO AI data.
 
 ### Mine Sweeper AI
