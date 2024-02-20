@@ -6,7 +6,7 @@
     <a href="https://github.com/juhayash" class="contact-button">Github</a>
 </div>
 
-### Technical Skills: Python, C++, C, ReactNative, Figma, Agile Development, Scrum, Tkinter, Docker
+### Technical Skills: Python, C++, C, ReactNative, Haskell, Figma, Agile Development, Scrum, Tkinter, Docker
 
 ## Education		        		
 - B.S., Computer Science | University of California Santa Cruz (_September 2022 - Dec 2023_)
