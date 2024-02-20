@@ -19,7 +19,7 @@
 
 
 #### Description
-- Created a web application that integrates Game Theory Optimal strategies for Texas Hold'em Poker
+- Created a *web application* that integrates Game Theory Optimal strategies for Texas Hold'em Poker
 - As a *Project Owner*, I led a team of *six developers* with *Agile* methodologies and *Scrum* practices, such as managing project features, sprint planning, user stories, and user points.
 - Crafted the wireframe and prototype for the product using *Figma*.
 - Spearheaded  UI enhancement initiatives utilizing *ReactNative*.
