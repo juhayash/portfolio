@@ -6,7 +6,7 @@
     <a href="https://github.com/juhayash" class="contact-button">Github</a>
 </div>
 
-### Technical Skills: Python, C++, C, ReactNative, Haskell, Figma, Agile Development, Scrum, Tkinter, Docker
+### Technical Skills: Python, C++, C, React Native, Haskell, Figma, Agile Development, Scrum, Tkinter, Docker
 
 ## Education		        		
 - B.S., Computer Science | University of California Santa Cruz (_September 2022 - Dec 2023_)
@@ -22,7 +22,7 @@
 - Created a **web application** that integrates Game Theory Optimal strategies for Texas Hold'em Poker
 - As a **Project Owner**, I led a team of six developers with **Agile** development and **Scrum** practices, such as managing project features, sprint planning, user stories, and user points.
 - Crafted the wireframe and prototype for the product using **Figma**.
-- Spearheaded  UI enhancement initiatives utilizing **ReactNative**.
+- Spearheaded  UI enhancement initiatives utilizing **React Native**.
   * Designed the product’s first page, incorporating a user-friendly start menu to streamline navigation.
   * Innovated an interactive input system using collapsible components.
   * Implemented a sophisticated user input mechanism through the deployment of multiple conditional buttons, designed to activate the ‘Result’ display only after all necessary criteria were met. 
