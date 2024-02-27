@@ -8,8 +8,11 @@
 
 ### Skills
 *Programming Languages*: Python, C++, C, Haskell
+
 *Widget Toolkits*: Tkinter, React, React Native
+
 *Technical Tools*: Figma, Notion, Docker, Git
+
 *Methodologies*: Agile, Scrum
 
 ## Education		        		
