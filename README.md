@@ -13,10 +13,12 @@
 University of California Santa Cruz (_September 2022 - Dec 2023_)
 Main Courses:
 - Artificial Intelligence, Game AI, Distributed System, Computer System Design, Abstract Data Type, Analysis of Algorithm, Functional Programming
+
 #### Associate of Science in Computer Science
 Diablo Valley College (_September 2019 - May 2022_)
 Main Courses:
 - Advanced Programming with C and C++, Program Design and Data Structure, Object Oriented Programming
+
 #### Additional Study
 HarvardX/edX (_Sep 2022 - Dec 2023_)
 Main Courses:
