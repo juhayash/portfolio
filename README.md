@@ -7,13 +7,13 @@
 </div>
 
 ### Skills
-*Programming Languages*: Python, C++, C, Haskell
+**Programming Languages**: Python, C++, C, Haskell
 
-*Widget Toolkits*: Tkinter, React, React Native
+**Widget Toolkits**: Tkinter, React, React Native
 
-*Technical Tools*: Figma, Notion, Docker, Git
+**Technical Tools**: Figma, Notion, Docker, Git
 
-*Methodologies*: Agile, Scrum
+**Methodologies**: Agile, Scrum
 
 ## Education		        		
 #### Bachelor of Science in Computer Science
