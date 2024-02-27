@@ -73,10 +73,10 @@ Main Courses:
 - Organizing and beautifying the Notion pages for project management purposes.
 - Implementing custom scripts to integrate Notion with external data resources for enhanced project organization.
 
-#### Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)*
+#### Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)
 - Contributed to the DRC department by taking organized lecture notes and providing support for people in need for a year.
 
-#### High-School Cramschool Tutor @ Rinkai Seminar (_May 2018 - Dec 2022_)*
+#### High-School Cramschool Tutor @ Rinkai Seminar (_May 2018 - Dec 2022_)
 - Provided in-person and online tutoring services to high school students in Math, Physics, and English.
 
 <style>
