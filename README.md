@@ -7,9 +7,9 @@
 </div>
 
 ### Skills
-**Programming Languages**: Python, C++, C, Haskell
+**Programming Languages**: Python, C++, C, JavaScript, Haskell
 
-**Widget Toolkits**: Tkinter, React, React Native
+**Widget Toolkits**: flask, Tkinter, React, React Native
 
 **Technical Tools**: Figma, Notion, Docker, Git
 
