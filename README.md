@@ -6,7 +6,11 @@
     <a href="https://github.com/juhayash" class="contact-button">Github</a>
 </div>
 
-### Technical Skills: Python, C++, C, React Native, Haskell, Figma, Notion, Agile Development, Scrum, Tkinter, Docker, Git
+### Skills
+#### Programming Languages: Python, C++, C, Haskell
+#### Widget Toolkits: Tkinter, React, React Native
+#### Technical Tools: Figma, Notion, Docker, Git
+#### Methodologies: Agile, Scrum
 
 ## Education		        		
 #### Bachelor of Science in Computer Science
