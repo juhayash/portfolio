@@ -1,16 +1,26 @@
 <div class="contact-section">
     <h2>Contact Me</h2>
-    <p>If you'd like to get in touch, feel free to reach out to me with email, Linked-in, or Github. </p>
+    <p>If you'd like to get in touch, feel free to reach out to me by email, Linked-in, or Github. </p>
     <a href="mailto:hayash.jun@gmail.com" class="contact-button">Email</a>
     <a href="https://www.linkedin.com/in/jun-hayashida-a34092244/" class="contact-button">LinkedIn</a>
     <a href="https://github.com/juhayash" class="contact-button">Github</a>
 </div>
 
-### Technical Skills: Python, C++, C, React Native, Haskell, Figma, Agile Development, Scrum, Tkinter, Docker
+### Technical Skills: Python, C++, C, React Native, Haskell, Figma, Notion, Agile Development, Scrum, Tkinter, Docker, Git
 
 ## Education		        		
-- B.S., Computer Science | University of California Santa Cruz (_September 2022 - Dec 2023_)
-- A.S., Computer Science | Diablo Valley College (_September 2019 - May 2022_)
+#### Bachelor of Science in Computer Science
+University of California Santa Cruz (_September 2022 - Dec 2023_)
+Main Courses:
+- Artificial Intelligence, Game AI, Distributed System, Computer System Design, Abstract Data Type, Analysis of Algorithm, Functional Programming
+#### Associate of Science in Computer Science
+Diablo Valley College (_September 2019 - May 2022_)
+Main Courses:
+- Advanced Programming with C and C++, Program Design and Data Structure, Object Oriented Programming
+#### Additional Study
+HarvardX/edX (_Sep 2022 - Dec 2023_)
+Main Courses:
+- Introduction to Computer Science, Introduction to Programming with Python, Introduction to Artificial Intelligence with Python
 
 ## Personal Projects
 ### Poker AI
@@ -28,7 +38,7 @@
   * Implemented a sophisticated user input mechanism through the deployment of multiple conditional buttons, designed to activate the ‘Result’ display only after all necessary criteria were met. 
   * Designed an intuitive result page, adding ‘View Details’ button. 
 - Designed the hand-evaluation function to output the optimal action in **Python**.
-- Created unit test files and reached to 97% accuracy against GTO AI data.
+- Created unit test files and reached 97% accuracy against GTO AI data.
 
 ### Mine Sweeper AI
 #### Demo
@@ -39,7 +49,7 @@
 - Created a Minesweeper game with **Python** to generate unique levels with customized difficulty settings.
 - Developed the level generation algorithm using the genetic algorithms.
 - Utilized the **Tkinter** Python library to add a wide variety of GUI features to enable easier interactions with users.
-  * Enabled flagging tiles with right click.
+  * Enabled flagging tiles with right-click.
   * Enabled expansion mechanism of neighboring empty spaces when an empty space is clicked. 
   * Implemented level regeneration if user selects a bomb on his first turn.
 - Implemented "Best Level" feature to track the level that has the highest fitness value.
@@ -59,12 +69,15 @@
 
 
 ## Work Experience
-*Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)*
+#### Volunteer Project Manager @ Artificial Intelligence Explanability Accountability (AIEA) Lab, University of California Santa Cruz (_Feb 2024 - current_)
+- Organizing and beautifying the Notion pages for project management purposes.
+- Implementing custom scripts to integrate Notion with external data resources for enhanced project organization.
+
+#### Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)*
 - Contributed to the DRC department by taking organized lecture notes and providing support for people in need for a year.
 
-*High-School Cramschool Tutor @ Rinkai Seminor (_May 2018 - Dec 2022_)*
-- Provided in-person/online tutoring services to high school students.
-- Provided lectures for Math, Physics, and English.
+#### High-School Cramschool Tutor @ Rinkai Seminar (_May 2018 - Dec 2022_)*
+- Provided in-person and online tutoring services to high school students in Math, Physics, and English.
 
 <style>
     .contact-section {
