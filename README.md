@@ -79,18 +79,6 @@ Main Courses:
 - Utilized a weighted scoring system to evaluate game states and determine optimal agent actions.
 - Coded various agents utilizing **advanced algorithms** such as Mini-max algorithm, alpha-beta pruning algorithm, and Q-learning algorithm.
 
-
-## Work Experience
-#### Volunteer Project Manager @ Artificial Intelligence Explanability Accountability (AIEA) Lab, University of California Santa Cruz (_Feb 2024 - current_)
-- Organizing and beautifying the Notion pages for project management purposes.
-- Implementing custom scripts to integrate Notion with external data resources for enhanced project organization.
-
-#### Disability Resource Center Peer Notetaker @ University of California Santa Cruz (_Jan 2023 - Dec 2023_)
-- Contributed to the DRC department by taking organized lecture notes and providing support for people in need for a year.
-
-#### High-School Cramschool Tutor @ Rinkai Seminar (_May 2018 - Dec 2022_)
-- Provided in-person and online tutoring services to high school students in Math, Physics, and English.
-
 <style>
     .contact-section {
         text-align: center;
