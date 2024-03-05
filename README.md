@@ -6,7 +6,7 @@
     <a href="https://github.com/juhayash" class="contact-button">Github</a>
 </div>
 
-### Skills
+## Skills
 **Programming Languages**: Python, C++, C, JavaScript, Haskell
 
 **Widget Toolkits**: Flask, Tkinter, React, React Native
