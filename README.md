@@ -35,7 +35,7 @@ Main Courses:
 - Introduction to Computer Science, Introduction to Programming with Python, Introduction to Artificial Intelligence with Python
 
 ## Personal Projects
-### Poker AI
+### Poker AI (_June 2023 - Aug 2023_)
 #### Demo
   <img src="assets/gif/demo1.gif" width="500" alt="Poker AI Demo">
 
@@ -52,7 +52,7 @@ Main Courses:
 - Designed the hand-evaluation function to output the optimal action in **Python**.
 - Created unit test files and reached 97% accuracy against GTO AI data.
 
-### Mine Sweeper AI
+### Mine Sweeper AI (_Aug 2023 - Sep 2023_)
 #### Demo
   <img src="assets/gif/demo2.gif" width="500" alt="Mine Sweeper AI Demo">
 
@@ -67,7 +67,7 @@ Main Courses:
 - Implemented "Best Level" feature to track the level that has the highest fitness value.
 - Actively involved in debugging and refining the scripts to optimize performance and user engagement.
 
-### Pac-Man AI
+### Pac-Man AI (_Jan 2023 - May 2023_)
 #### Demo
   <img src="assets/gif/demo3.gif" alt="Pac-man AI Demo">
 
